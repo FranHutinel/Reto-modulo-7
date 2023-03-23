@@ -30,7 +30,7 @@ formularioAdd.addEventListener("submit", (e) => {
         })
 })
 
-//eliminar por nombre
+
 let formEliminar = document.getElementById("eliminarPais");
 let nombrePaisEliminar = document.getElementById('nombrePaisEliminar')
 formEliminar.addEventListener("submit", (e) => {
@@ -51,5 +51,5 @@ formEliminar.addEventListener("submit", (e) => {
             alert("Algo ha fallado al realizar la consulta")
         })
 })
-//ordenar
+
 

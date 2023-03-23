@@ -1,5 +1,5 @@
 {
-  "name": "reto-m8",
+  "name": "reto modulo 7",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "dev" : "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "Nicolas Alejandro Escobar Villegas",
+  "author": "Mariela Ochoa hutinel",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.21"
