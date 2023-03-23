@@ -18,4 +18,7 @@ Autor. Mariela Ochoa
 🚀Iniciar proyecto
 -instalar dependencias: npm i
 -cambiar configuracion a conexion a base de datos: src/db/db.js
--correr el programa:npm run dev
+-correr el programa: npm run dev
+
+🚀Enlace Git
+https://github.com/FranHutinel/Reto-modulo-7
